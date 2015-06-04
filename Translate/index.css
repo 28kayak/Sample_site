@@ -1,0 +1,35 @@
+body{
+	margin: 0;
+	background-image: url(/Users/kaya/Documents/Job1/Translate/src/a0001_011478_m.jpg);
+	background-size: cover;
+	opacity: 0.7;
+}
+.japanese-part{
+	width:50%;
+	float: left;
+	/*background-image: url(/Users/kaya/Documents/Job1/Translate/src/28280179a30accb6a1986029ac204e14_m.jpg);*/
+	background-size: 100%;
+	color: black;
+
+}
+.japanese-part h1{
+	opacity: 1;
+  	font-size: 45px;
+  	letter-spacing: 5px;
+}
+.english-part{
+	width: 50%;
+	float:right;
+	color: black;
+
+}
+.english-part h1{
+	opacity: 1;
+  	font-size: 45px;
+  	letter-spacing: 5px;
+}
+.top-wrapper{
+
+	
+	
+}

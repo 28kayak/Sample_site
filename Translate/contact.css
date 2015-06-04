@@ -1,0 +1,13 @@
+.english-part{
+	float: right;
+	width: 50%;
+}
+.japanese-part{
+	float: left;
+	width: 50%;
+}
+div{
+	background-image: url(src/gi01a201503272200.jpg);
+	background-size: cover;
+	
+}
